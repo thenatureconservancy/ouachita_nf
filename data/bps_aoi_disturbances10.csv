@@ -1,0 +1,94 @@
+TransitionGroupID,Model_Code,annual_probability,BpS_Name,...1,BLUE,ACRES,REL_PERCENT,annual_dist_acres
+All Fire,13040_32_43_44_49,0.085975,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,57293.82598
+All Fire,13340_32_43_44,0.0521608,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,6155.861134
+All Fire,13640_32_44_49,0.2045578,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,80329.84806
+All Fire,13670_32_44,0.2153964,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,112579.0824
+All Fire,13710_44,0.2274924,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,20989.35879
+All Fire,13780_37_44,0.205879,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,2342.285383
+All Fire,14151_44,0.504234,Arkansas Valley Prairie and Woodland - Prairie,13,0.733333333,7927,0.3,3997.062918
+All Fire,14152_44,0.4809748,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,6115.113607
+All Fire,14280_37_44,0.2897556,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,2655.610074
+All Fire,15070_44,0.4893528,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,340674.2068
+All Transitions,13040_32_43_44_49,0.1022102,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,68112.97949
+All Transitions,13340_32_43_44,0.0549248,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,6482.060122
+All Transitions,13640_32_44_49,0.3011134,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,118247.2322
+All Transitions,13670_32_44,0.2352692,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,122965.8001
+All Transitions,13710_44,0.242742,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,22396.34789
+All Transitions,13780_37_44,0.2186968,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,2488.113494
+All Transitions,14151_44,0.5056756,Arkansas Valley Prairie and Woodland - Prairie,13,0.733333333,7927,0.3,4008.490481
+All Transitions,14152_44,0.4975414,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,6325.74136
+All Transitions,14280_37_44,0.2959082,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,2711.998653
+All Transitions,15070_44,0.4991866,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,347520.2329
+Alternative Succession,13040_32_43_44_49,0.0125246,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,8346.405965
+Alternative Succession,13640_32_44_49,0.012433,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,4882.4391
+Alternative Succession,13670_32_44,0.0118856,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,6212.127696
+Alternative Succession,13710_44,0.0092506,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,853.4973584
+Alternative Succession,13780_37_44,0.0037046,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,42.1472342
+Alternative Succession,14151_44,0.0014416,Arkansas Valley Prairie and Woodland - Prairie,13,0.733333333,7927,0.3,11.4275632
+Alternative Succession,14152_44,0.012561,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,159.700554
+Alternative Succession,14280_37_44,0.0011778,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,10.794537
+Alternative Succession,15070_44,0.0021692,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,1510.138472
+Competition or Maintenance,13670_32_44,0.0024052,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,1257.101832
+Competition or Maintenance,15070_44,0.004714,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,3281.759522
+Insect or Disease,13670_32_44,0.0020992,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,1097.167872
+Insect or Disease,13710_44,0.0053708,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,495.5314912
+Insect or Disease,15070_44,0.0004988,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,347.2510924
+Mixed Fire,13040_32_43_44_49,0.0148922,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,9924.176972
+Mixed Fire,13340_32_43_44,0.0092776,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,1094.914519
+Mixed Fire,13640_32_44_49,0.0112588,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,4421.33076
+Mixed Fire,13670_32_44,0.0108832,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,5688.213312
+Mixed Fire,13710_44,0.0194648,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,1795.900307
+Mixed Fire,13780_37_44,0.0025744,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,29.2889488
+Mixed Fire,14151_44,0.0029854,Arkansas Valley Prairie and Woodland - Prairie,13,0.733333333,7927,0.3,23.6652658
+Mixed Fire,14152_44,0.0699944,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,889.9088016
+Mixed Fire,14280_37_44,0.1513776,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,1387.375704
+Mixed Fire,15070_44,0.0008288,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,576.9881824
+Native Grazing,13640_32_44_49,0.080619,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,31659.0813
+Non Fire Disturbances,13040_32_43_44_49,0.0037106,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,2472.747551
+Non Fire Disturbances,13340_32_43_44,0.002764,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,326.198988
+Non Fire Disturbances,13640_32_44_49,0.0841226,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,33034.94502
+Non Fire Disturbances,13670_32_44,0.0079872,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,4174.589952
+Non Fire Disturbances,13710_44,0.005999,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,553.491736
+Non Fire Disturbances,13780_37_44,0.0091132,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,103.6808764
+Non Fire Disturbances,14152_44,0.0040056,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,50.9271984
+Non Fire Disturbances,14280_37_44,0.0049748,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,45.594042
+Non Fire Disturbances,15070_44,0.0076646,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,5335.887576
+Non Replacement Fire,13040_32_43_44_49,0.0807844,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,53834.80494
+Non Replacement Fire,13340_32_43_44,0.0490036,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,5783.257861
+Non Replacement Fire,13640_32_44_49,0.17781,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,69825.987
+Non Replacement Fire,13670_32_44,0.2125052,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,111067.9678
+Non Replacement Fire,13710_44,0.219105,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,20215.50372
+Non Replacement Fire,13780_37_44,0.1995134,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,2269.863952
+Non Replacement Fire,14151_44,0.0875004,Arkansas Valley Prairie and Woodland - Prairie,13,0.733333333,7927,0.3,693.6156708
+Non Replacement Fire,14152_44,0.4705158,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,5982.137881
+Non Replacement Fire,14280_37_44,0.2889804,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,2648.505366
+Non Replacement Fire,15070_44,0.4793504,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,333710.806
+Replacement Fire,13040_32_43_44_49,0.0051906,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,3459.021031
+Replacement Fire,13340_32_43_44,0.0031572,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,372.6032724
+Replacement Fire,13640_32_44_49,0.0267478,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,10503.86106
+Replacement Fire,13670_32_44,0.0028912,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,1511.114592
+Replacement Fire,13710_44,0.0083874,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,773.8550736
+Replacement Fire,13780_37_44,0.0063656,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,72.4214312
+Replacement Fire,14151_44,0.4167336,Arkansas Valley Prairie and Woodland - Prairie,13,0.733333333,7927,0.3,3303.447247
+Replacement Fire,14152_44,0.010459,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,132.975726
+Replacement Fire,14280_37_44,0.0007752,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,7.104708
+Replacement Fire,15070_44,0.0100024,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,6963.400815
+Surface Fire,13040_32_43_44_49,0.0658922,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,43910.62797
+Surface Fire,13340_32_43_44,0.039726,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,4688.343342
+Surface Fire,13640_32_44_49,0.1665512,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,65404.65624
+Surface Fire,13670_32_44,0.201622,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,105379.7545
+Surface Fire,13710_44,0.1996402,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,18419.60341
+Surface Fire,13780_37_44,0.196939,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,2240.575003
+Surface Fire,14151_44,0.084515,Arkansas Valley Prairie and Woodland - Prairie,13,0.733333333,7927,0.3,669.950405
+Surface Fire,14152_44,0.4005214,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,5092.22908
+Surface Fire,14280_37_44,0.1376028,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,1261.129662
+Surface Fire,15070_44,0.4785216,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,333133.8178
+Wind or Weather or Stress,13040_32_43_44_49,0.0037106,Ozark-Ouachita Dry-Mesic Oak Forest,2,0,666401,24.4,2472.747551
+Wind or Weather or Stress,13340_32_43_44,0.002764,Ozark-Ouachita Mesic Hardwood Forest,5,0.290196078,118017,4.3,326.198988
+Wind or Weather or Stress,13640_32_44_49,0.0035036,Ozark-Ouachita Dry Oak Woodland,4,0,392700,14.4,1375.86372
+Wind or Weather or Stress,13670_32_44,0.0034828,Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland,3,0.392156863,522660,19.1,1820.320248
+Wind or Weather or Stress,13710_44,0.0006282,West Gulf Coastal Plain Pine-Hardwood Forest,6,0,92264,3.4,57.9602448
+Wind or Weather or Stress,13780_37_44,0.0091132,West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland,12,0,11377,0.4,103.6808764
+Wind or Weather or Stress,14152_44,0.0040056,Arkansas Valley Prairie and Woodland - Woodland,11,0.701960784,12714,0.5,50.9271984
+Wind or Weather or Stress,14280_37_44,0.0049748,West Gulf Coastal Plain Northern Calcareous Prairie,14,0.431372549,9165,0.3,45.594042
+Wind or Weather or Stress,15070_44,0.0024518,Ozark-Ouachita Shortleaf Pine-Bluestem Woodland,1,0.439215686,696173,25.5,1706.876961

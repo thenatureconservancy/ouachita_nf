@@ -55,7 +55,7 @@ bpsChart
 
 ## Historic Annual Acres Burned (per ecosystem)
 
-```{r fire bar, eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
+```{r fire bar, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 # read bps attribute table .csv and summarize
 annualFire <- bps_data %>%
   mutate(annual_fire_acres = ((1/FRI_ALLFIR)*ACRES)) %>%
@@ -95,9 +95,9 @@ ggsave("./OUTPUTS/fireChart.png", width = 12, height = 5)
 
 <br>
 
-## Historical Disturbances (per ecosystem)
+## Historical Disturbances (per ecosystem, 10 most burned BpSs selected)
 
-```{r all disturbances, eval=FALSE, echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+```{r all disturbances,  echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
 
 # Load packages
 library(tidyverse)
@@ -108,7 +108,7 @@ library(plotly)
 
 
 # This code reads a CSV file named "bps_aoi_disturbances.csv" from the "data" directory into a data frame.
-bps_aoi_disturbances <- read_csv("data/bps_aoi_disturbances.csv") 
+bps_aoi_disturbances <- read_csv("data/bps_aoi_disturbances10.csv") 
 
 # The data frame is then filtered to exclude certain values in the "TransitionGroupID" column. 
 # The excluded values are: "All Fire", "All Transitions", "Alternative Succession", 

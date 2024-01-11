@@ -46,14 +46,14 @@
     "href": "comparing.html#comparing-broad-vegetation-trends",
     "title": "Comparisons",
     "section": "Comparing Broad Vegetation Trends",
-    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nBroadly speaking, this subregion has not experienced significant ecosystem conversion to agricultural or urban land uses.\n\nLANDFIRE mapped a fair amount of change in the “Past Conifer” class, with almost 30% of it being mapped as present day shrubland.\nNearly all of the land classified as present day “exotic vegetation” was converted from shrubland areas.\nNote: number presented when hovering equals acres."
+    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nNote: number presented when hovering equals acres."
   },
   {
     "objectID": "comparing.html#succession-classes-for-most-dominant-bpss",
     "href": "comparing.html#succession-classes-for-most-dominant-bpss",
     "title": "Comparisons",
     "section": "Succession classes for most dominant BpSs",
-    "text": "Succession classes for most dominant BpSs\n\nSuccession classes have changed the most in the Rocky Mountain Montane Riparian Systems BpS, with a substantial over representation of succession class B currently.\nSome BpSs appear to be missing succession classes on the landscape today, such as the Colorado Plateau Pinyon-Juniper Woodland (missing succession class B)."
+    "text": "Succession classes for most dominant BpSs"
   },
   {
     "objectID": "index.html",
@@ -119,11 +119,11 @@
     "text": "Top Historical Fire Regimes"
   },
   {
-    "objectID": "past.html#historical-disturbances-per-ecosystem",
-    "href": "past.html#historical-disturbances-per-ecosystem",
+    "objectID": "past.html#historical-disturbances-per-ecosystem-10-most-burned-bpss-selected",
+    "href": "past.html#historical-disturbances-per-ecosystem-10-most-burned-bpss-selected",
     "title": "Past: Historical Ecosystems",
-    "section": "Historical Disturbances (per ecosystem)",
-    "text": "Historical Disturbances (per ecosystem)"
+    "section": "Historical Disturbances (per ecosystem, 10 most burned BpSs selected)",
+    "text": "Historical Disturbances (per ecosystem, 10 most burned BpSs selected)\n\n\n\n\n\n\nSelect ecosystem"
   },
   {
     "objectID": "past.html#data-table",
@@ -144,7 +144,7 @@
     "href": "present.html#summary",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Summary",
-    "text": "Summary\n\nThe Colorado Plateau Pinyon-Juniper Woodland is the most dominant ecosystem covering almost 23% of the subregion. The “shrubland” version of this type covers ~7% of the area.\nShrub are by far the most dominant; relatively low canopy cover dominates as well.\nTrees make up a small amount of the vegetation in this subregion."
+    "text": "Summary"
   },
   {
     "objectID": "present.html#most-prevalent-existing-vegetation-types",
@@ -165,14 +165,14 @@
     "href": "present.html#existing-vegetation-cover",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Existing Vegetation Cover",
-    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative dominance across the subregion\nFrom this information, we can see that the majority of this subregion is classified as “shrub,” comprising approximately 50% of the vegetation cover."
+    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative dominance across the subregion"
   },
   {
     "objectID": "present.html#existing-vegetation-height",
     "href": "present.html#existing-vegetation-height",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Existing Vegetation Height",
-    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height.\nFrom these results, most trees are between 1 - 15m tall and most shrubs are between 0.2 - 0.5m tall."
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height."
   },
   {
     "objectID": "to_dos.html",

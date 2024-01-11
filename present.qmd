@@ -19,9 +19,7 @@ LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/veg
 
 ## Summary
 
-* The Colorado Plateau Pinyon-Juniper Woodland is the most dominant ecosystem covering almost 23% of the subregion. The "shrubland" version of this type covers ~7% of the area. 
-* Shrub are by far the most dominant; relatively low canopy cover dominates as well.
-* Trees make up a small amount of the vegetation in this subregion.  
+
 
 ## Most Prevalent Existing Vegetation Types
 
@@ -49,7 +47,7 @@ evtChart <-
     title = "Top 10 Existing Vegetation Types",
     caption = "Data from landfire.gov",
     x = "",
-    y = "percent of landscape") +
+    y = "Percent of landscape") +
   scale_x_discrete(limits = rev(evtname$EVT_NAME),
                    labels = function(x) str_wrap(x, width = 18)) +
   coord_flip() +
@@ -66,7 +64,6 @@ evtChart
 ## Existing Vegetation Cover
 The Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative dominance across the subregion
 
-From this information, we can see that the majority of this subregion is classified as “shrub,” comprising approximately 50% of the vegetation cover.
 
 
 ![](images/evc.jpg){width=100%}
@@ -153,8 +150,8 @@ evcChart <-
   labs(
     title = "Existing Vegetation Cover",
     caption = "Data from landfire.gov",
-    x = "amount of landscape",
-    y = "most dominant lifeform") +
+    x = "Amount of landscape",
+    y = "Most dominant lifeform") +
   scale_fill_identity() +
   coord_flip() +
   theme_classic(base_size = 12)+
@@ -171,7 +168,7 @@ evcChart
 ## Existing Vegetation Height
 The Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height.
 
-From these results, most trees are between 1 - 15m tall and most shrubs are between 0.2 - 0.5m tall.
+
 
 ![](images/evh.jpg){width=100%}
 <br>
