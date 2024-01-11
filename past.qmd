@@ -9,12 +9,15 @@ title: "Past: Historical Ecosystems"
 
 Check out this 3-minute tutorial for a quick refresher on the [basics of Biophysical Settings Models](https://youtu.be/xjaWJCe7udQ){target="blank"}.
 
-Use this page as a starting point to explore the most prevalent BpSs in the SRFSN Colorado Plateau Subregion. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site. 
+Use this page as a starting point to explore the most prevalent BpSs on the Ouachita National Forest. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site. 
 
 ## Summary
 
+Historically, more than 80% of the Ouachita National Forest was covered by shortleaf pine and oak dominated woodland and forest, represented by the 'Ozark-Ouachita Shortleaf-Pine Bluestem Woodland', 'Ozark-Ouachita Dry-Mesic Oak Forest', 'Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland', and 'Ozark-Ouachita Dry Oak Woodland'. Much of the composition of the woodlands and forests was due to changes in slope and aspect, with more open, pine and dry oak communities concentrated on dry, south facing slopes, and denser more mesic oak communities concentrated on wetter north facing slopes. 
 
+The 'Ozark-Ouachita Shortleaf-Pine Bluestem Woodland' covered more than 25% of the area, a biophysical setting characterized by a shortleaf pine dominated canopy (*Pinus echinata*) and open understory dominated by big bluestem (*Andropogon gerardii*), little bluestem (*Schizachium scoparium*), and other sun loving plants species more often seen in prairie communities. Much of this setting occurred on the large, gently sloping east/west ridges of the Ouachitas, on primarily sandstone and shale substrates. 
 
+More than 95% of the Ouachita National Forest had ecosystems with a Mean Fire Return Interval (MFRI) of ~25 years or less. Floodplain systems represented the remaining ecosystems and had MFRIs greater than 25 years. Surface fire was by far, the most prevalent historic disturbance. In the past, roughly 300,000 acres of surface fire burned through the 'Ozark-Ouachita Shortleaf Pine-Bluestem Woodland' ecosystem per year. Overall, more than 600,000 acres of surface fire burned throughout the Ouachita National Forest per year. Native grazing was the second-most common disturbance, but was low in comparison, affecting roughly 30,000 acres per year. 
 
 ## Most Prevalent Biophysical Settings
 
