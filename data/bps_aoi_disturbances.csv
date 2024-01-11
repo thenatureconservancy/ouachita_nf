@@ -1,0 +1,180 @@
+"","TransitionGroupID","Model_Code","annual_probability","BpS_Name","...1","BLUE","ACRES","REL_PERCENT","annual_dist_acres"
+"1","All Fire","13040_32_43_44_49",0.085975,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,57293.825975
+"2","All Fire","13120_44",0.207412,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,1102.602192
+"3","All Fire","13230_32_36_37_44_45_98",0.058074,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,147.50796
+"4","All Fire","13340_32_43_44",0.0521608,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,6155.8611336
+"5","All Fire","13640_32_44_49",0.2045578,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,80329.84806
+"6","All Fire","13670_32_44",0.2153964,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,112579.082424
+"7","All Fire","13710_44",0.2274924,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,20989.3587936
+"8","All Fire","13780_37_44",0.205879,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,2342.285383
+"9","All Fire","14151_44",0.504234,"Arkansas Valley Prairie and Woodland - Prairie",13,0.733333333,7927,0.3,3997.062918
+"10","All Fire","14152_44",0.4809748,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,6115.1136072
+"11","All Fire","14280_37_44",0.2897556,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,2655.610074
+"12","All Fire","14580_37_44_45_98",0.2141494,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,654.226417
+"13","All Fire","14712_44",0.017178,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,1076.150166
+"14","All Fire","14730_32_37_44",0.0267264,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,962.6582016
+"15","All Fire","14740_32_37_44_45_98",0.0301356,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,530.38656
+"16","All Fire","14800_36_37_44",0.0024648,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,13.223652
+"17","All Fire","14930_41_42_44_50",0.0590382,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,10.7449524
+"18","All Fire","15060_37_44",0.037472,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,166.038432
+"19","All Fire","15070_44",0.4893528,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,340674.2068344
+"20","All Transitions","13040_32_43_44_49",0.1022102,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,68112.9794902
+"21","All Transitions","13120_44",0.3051234,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,1622.0359944
+"22","All Transitions","13230_32_36_37_44_45_98",0.0728618,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,185.068972
+"23","All Transitions","13340_32_43_44",0.0549248,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,6482.0601216
+"24","All Transitions","13640_32_44_49",0.3011134,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,118247.23218
+"25","All Transitions","13670_32_44",0.2352692,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,122965.800072
+"26","All Transitions","13710_44",0.242742,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,22396.347888
+"27","All Transitions","13780_37_44",0.2186968,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,2488.1134936
+"28","All Transitions","14151_44",0.5056756,"Arkansas Valley Prairie and Woodland - Prairie",13,0.733333333,7927,0.3,4008.4904812
+"29","All Transitions","14152_44",0.4975414,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,6325.7413596
+"30","All Transitions","14280_37_44",0.2959082,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,2711.998653
+"31","All Transitions","14580_37_44_45_98",0.22963,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,701.51965
+"32","All Transitions","14712_44",0.0321402,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,2013.4871094
+"33","All Transitions","14730_32_37_44",0.0459086,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,1653.5818634
+"34","All Transitions","14740_32_37_44_45_98",0.0375994,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,661.74944
+"35","All Transitions","14800_36_37_44",0.007146,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,38.33829
+"36","All Transitions","14930_41_42_44_50",0.4118612,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,74.9587384
+"37","All Transitions","15060_37_44",0.0472066,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,209.1724446
+"38","All Transitions","15070_44",0.4991866,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,347520.2328818
+"39","Alternative Succession","13040_32_43_44_49",0.0125246,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,8346.4059646
+"40","Alternative Succession","13120_44",0.0125896,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,66.9263136
+"41","Alternative Succession","13230_32_36_37_44_45_98",0.0129538,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,32.902652
+"42","Alternative Succession","13640_32_44_49",0.012433,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,4882.4391
+"43","Alternative Succession","13670_32_44",0.0118856,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,6212.127696
+"44","Alternative Succession","13710_44",0.0092506,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,853.4973584
+"45","Alternative Succession","13780_37_44",0.0037046,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,42.1472342
+"46","Alternative Succession","14151_44",0.0014416,"Arkansas Valley Prairie and Woodland - Prairie",13,0.733333333,7927,0.3,11.4275632
+"47","Alternative Succession","14152_44",0.012561,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,159.700554
+"48","Alternative Succession","14280_37_44",0.0011778,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,10.794537
+"49","Alternative Succession","14580_37_44_45_98",0.0069728,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,21.301904
+"50","Alternative Succession","14730_32_37_44",0.006106,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,219.932014
+"51","Alternative Succession","14930_41_42_44_50",0.012543,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,2.282826
+"52","Alternative Succession","15060_37_44",0.0061712,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,27.3445872
+"53","Alternative Succession","15070_44",0.0021692,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,1510.1384716
+"54","Competition or Maintenance","13670_32_44",0.0024052,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,1257.101832
+"55","Competition or Maintenance","15070_44",0.004714,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,3281.759522
+"56","Insect or Disease","13670_32_44",0.0020992,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,1097.167872
+"57","Insect or Disease","13710_44",0.0053708,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,495.5314912
+"58","Insect or Disease","14580_37_44_45_98",0.0035524,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,10.852582
+"59","Insect or Disease","14730_32_37_44",0.0023386,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,84.2340334
+"60","Insect or Disease","14800_36_37_44",0.0009064,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,4.862836
+"61","Insect or Disease","15070_44",0.0004988,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,347.2510924
+"62","Mixed Fire","13040_32_43_44_49",0.0148922,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,9924.1769722
+"63","Mixed Fire","13120_44",0.011534,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,61.314744
+"64","Mixed Fire","13230_32_36_37_44_45_98",0.0111388,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,28.292552
+"65","Mixed Fire","13340_32_43_44",0.0092776,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,1094.9145192
+"66","Mixed Fire","13640_32_44_49",0.0112588,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,4421.33076
+"67","Mixed Fire","13670_32_44",0.0108832,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,5688.213312
+"68","Mixed Fire","13710_44",0.0194648,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,1795.9003072
+"69","Mixed Fire","13780_37_44",0.0025744,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,29.2889488
+"70","Mixed Fire","14151_44",0.0029854,"Arkansas Valley Prairie and Woodland - Prairie",13,0.733333333,7927,0.3,23.6652658
+"71","Mixed Fire","14152_44",0.0699944,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,889.9088016
+"72","Mixed Fire","14280_37_44",0.1513776,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,1387.375704
+"73","Mixed Fire","14580_37_44_45_98",0.0095528,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,29.183804
+"74","Mixed Fire","14730_32_37_44",0.0039248,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,141.3673712
+"75","Mixed Fire","14740_32_37_44_45_98",0.007714,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,135.7664
+"76","Mixed Fire","15060_37_44",0.0077394,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,34.2932814
+"77","Mixed Fire","15070_44",0.0008288,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,576.9881824
+"78","Native Grazing","13120_44",0.0816056,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,433.8153696
+"79","Native Grazing","13640_32_44_49",0.080619,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,31659.0813
+"80","Non Fire Disturbances","13040_32_43_44_49",0.0037106,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,2472.7475506
+"81","Non Fire Disturbances","13120_44",0.0851218,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,452.5074888
+"82","Non Fire Disturbances","13230_32_36_37_44_45_98",0.001834,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,4.65836
+"83","Non Fire Disturbances","13340_32_43_44",0.002764,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,326.198988
+"84","Non Fire Disturbances","13640_32_44_49",0.0841226,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,33034.94502
+"85","Non Fire Disturbances","13670_32_44",0.0079872,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,4174.589952
+"86","Non Fire Disturbances","13710_44",0.005999,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,553.491736
+"87","Non Fire Disturbances","13780_37_44",0.0091132,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,103.6808764
+"88","Non Fire Disturbances","14152_44",0.0040056,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,50.9271984
+"89","Non Fire Disturbances","14280_37_44",0.0049748,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,45.594042
+"90","Non Fire Disturbances","14580_37_44_45_98",0.0085078,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,25.991329
+"91","Non Fire Disturbances","14712_44",0.0149622,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,937.3369434
+"92","Non Fire Disturbances","14730_32_37_44",0.0130762,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,470.9916478
+"93","Non Fire Disturbances","14740_32_37_44_45_98",0.0074638,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,131.36288
+"94","Non Fire Disturbances","14800_36_37_44",0.0046812,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,25.114638
+"95","Non Fire Disturbances","14930_41_42_44_50",0.34028,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,61.93096
+"96","Non Fire Disturbances","15060_37_44",0.0035634,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,15.7894254
+"97","Non Fire Disturbances","15070_44",0.0076646,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,5335.8875758
+"98","Non Replacement Fire","13040_32_43_44_49",0.0807844,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,53834.8049444
+"99","Non Replacement Fire","13120_44",0.1803988,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,959.0000208
+"100","Non Replacement Fire","13230_32_36_37_44_45_98",0.0543336,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,138.007344
+"101","Non Replacement Fire","13340_32_43_44",0.0490036,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,5783.2578612
+"102","Non Replacement Fire","13640_32_44_49",0.17781,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,69825.987
+"103","Non Replacement Fire","13670_32_44",0.2125052,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,111067.967832
+"104","Non Replacement Fire","13710_44",0.219105,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,20215.50372
+"105","Non Replacement Fire","13780_37_44",0.1995134,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,2269.8639518
+"106","Non Replacement Fire","14151_44",0.0875004,"Arkansas Valley Prairie and Woodland - Prairie",13,0.733333333,7927,0.3,693.6156708
+"107","Non Replacement Fire","14152_44",0.4705158,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,5982.1378812
+"108","Non Replacement Fire","14280_37_44",0.2889804,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,2648.505366
+"109","Non Replacement Fire","14580_37_44_45_98",0.2085576,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,637.143468
+"110","Non Replacement Fire","14712_44",0.0100336,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,628.5749392
+"111","Non Replacement Fire","14730_32_37_44",0.0241648,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,870.3919312
+"112","Non Replacement Fire","14740_32_37_44_45_98",0.0277824,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,488.97024
+"113","Non Replacement Fire","14800_36_37_44",0.0014644,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,7.856506
+"114","Non Replacement Fire","15060_37_44",0.0342364,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,151.7014884
+"115","Non Replacement Fire","15070_44",0.4793504,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,333710.8060192
+"116","Optional 1","14712_44",0.0122498,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,767.4132206
+"117","Optional 1","14730_32_37_44",0.0055264,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,199.0554016
+"118","Optional 1","14740_32_37_44_45_98",0.0050168,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,88.29568
+"119","Optional 1","14930_41_42_44_50",0.004647,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,0.845754
+"120","Optional 2","14930_41_42_44_50",0.0066408,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,1.2086256
+"121","Optional Types","14712_44",0.0122498,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,767.4132206
+"122","Optional Types","14730_32_37_44",0.0055264,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,199.0554016
+"123","Optional Types","14740_32_37_44_45_98",0.0050168,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,88.29568
+"124","Optional Types","14930_41_42_44_50",0.0112878,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,2.0543796
+"125","Replacement Fire","13040_32_43_44_49",0.0051906,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,3459.0210306
+"126","Replacement Fire","13120_44",0.0270132,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,143.6021712
+"127","Replacement Fire","13230_32_36_37_44_45_98",0.0037404,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,9.500616
+"128","Replacement Fire","13340_32_43_44",0.0031572,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,372.6032724
+"129","Replacement Fire","13640_32_44_49",0.0267478,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,10503.86106
+"130","Replacement Fire","13670_32_44",0.0028912,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,1511.114592
+"131","Replacement Fire","13710_44",0.0083874,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,773.8550736
+"132","Replacement Fire","13780_37_44",0.0063656,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,72.4214312
+"133","Replacement Fire","14151_44",0.4167336,"Arkansas Valley Prairie and Woodland - Prairie",13,0.733333333,7927,0.3,3303.4472472
+"134","Replacement Fire","14152_44",0.010459,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,132.975726
+"135","Replacement Fire","14280_37_44",0.0007752,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,7.104708
+"136","Replacement Fire","14580_37_44_45_98",0.0055918,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,17.082949
+"137","Replacement Fire","14712_44",0.0071444,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,447.5752268
+"138","Replacement Fire","14730_32_37_44",0.0025616,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,92.2662704
+"139","Replacement Fire","14740_32_37_44_45_98",0.0023532,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,41.41632
+"140","Replacement Fire","14800_36_37_44",0.0010004,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,5.367146
+"141","Replacement Fire","14930_41_42_44_50",0.0590382,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,10.7449524
+"142","Replacement Fire","15060_37_44",0.0032356,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,14.3369436
+"143","Replacement Fire","15070_44",0.0100024,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,6963.4008152
+"144","Surface Fire","13040_32_43_44_49",0.0658922,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,43910.6279722
+"145","Surface Fire","13120_44",0.1688648,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,897.6852768
+"146","Surface Fire","13230_32_36_37_44_45_98",0.0431948,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,109.714792
+"147","Surface Fire","13340_32_43_44",0.039726,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,4688.343342
+"148","Surface Fire","13640_32_44_49",0.1665512,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,65404.65624
+"149","Surface Fire","13670_32_44",0.201622,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,105379.75452
+"150","Surface Fire","13710_44",0.1996402,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,18419.6034128
+"151","Surface Fire","13780_37_44",0.196939,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,2240.575003
+"152","Surface Fire","14151_44",0.084515,"Arkansas Valley Prairie and Woodland - Prairie",13,0.733333333,7927,0.3,669.950405
+"153","Surface Fire","14152_44",0.4005214,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,5092.2290796
+"154","Surface Fire","14280_37_44",0.1376028,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,1261.129662
+"155","Surface Fire","14580_37_44_45_98",0.1990048,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,607.959664
+"156","Surface Fire","14712_44",0.0100336,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,628.5749392
+"157","Surface Fire","14730_32_37_44",0.02024,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,729.02456
+"158","Surface Fire","14740_32_37_44_45_98",0.0200684,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,353.20384
+"159","Surface Fire","14800_36_37_44",0.0014644,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,7.856506
+"160","Surface Fire","15060_37_44",0.026497,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,117.408207
+"161","Surface Fire","15070_44",0.4785216,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,333133.8178368
+"162","Wind or Weather or Stress","13040_32_43_44_49",0.0037106,"Ozark-Ouachita Dry-Mesic Oak Forest",2,0,666401,24.4,2472.7475506
+"163","Wind or Weather or Stress","13120_44",0.0035162,"Ouachita Montane Oak Forest",15,0.450980392,5316,0.2,18.6921192
+"164","Wind or Weather or Stress","13230_32_36_37_44_45_98",0.001834,"West Gulf Coastal Plain Mesic Hardwood Forest",18,0.560784314,2540,0.1,4.65836
+"165","Wind or Weather or Stress","13340_32_43_44",0.002764,"Ozark-Ouachita Mesic Hardwood Forest",5,0.290196078,118017,4.3,326.198988
+"166","Wind or Weather or Stress","13640_32_44_49",0.0035036,"Ozark-Ouachita Dry Oak Woodland",4,0,392700,14.4,1375.86372
+"167","Wind or Weather or Stress","13670_32_44",0.0034828,"Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland",3,0.392156863,522660,19.1,1820.320248
+"168","Wind or Weather or Stress","13710_44",0.0006282,"West Gulf Coastal Plain Pine-Hardwood Forest",6,0,92264,3.4,57.9602448
+"169","Wind or Weather or Stress","13780_37_44",0.0091132,"West Gulf Coastal Plain Sandhill Oak and Shortleaf Pine Forest and Woodland",12,0,11377,0.4,103.6808764
+"170","Wind or Weather or Stress","14152_44",0.0040056,"Arkansas Valley Prairie and Woodland - Woodland",11,0.701960784,12714,0.5,50.9271984
+"171","Wind or Weather or Stress","14280_37_44",0.0049748,"West Gulf Coastal Plain Northern Calcareous Prairie",14,0.431372549,9165,0.3,45.594042
+"172","Wind or Weather or Stress","14580_37_44_45_98",0.0049554,"West Gulf Coastal Plain Pine-Hardwood Flatwoods",19,0.380392157,3055,0.1,15.138747
+"173","Wind or Weather or Stress","14712_44",0.0027124,"Central Interior and Appalachian Floodplain Systems - Large Floodplains",8,0.219607843,62647,2.3,169.9237228
+"174","Wind or Weather or Stress","14730_32_37_44",0.0052112,"Gulf and Atlantic Coastal Plain Floodplain Systems",9,0.803921569,36019,1.3,187.7022128
+"175","Wind or Weather or Stress","14740_32_37_44_45_98",0.002447,"Gulf and Atlantic Coastal Plain Small Stream Riparian Systems",10,0.921568627,17600,0.6,43.0672
+"176","Wind or Weather or Stress","14800_36_37_44",0.0037748,"Gulf and Atlantic Coastal Plain Swamp Systems",16,0.701960784,5365,0.2,20.251802
+"177","Wind or Weather or Stress","14930_41_42_44_50",0.3289922,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",21,0.078431373,182,0,59.8765804
+"178","Wind or Weather or Stress","15060_37_44",0.0035634,"West Gulf Coastal Plain Nonriverine Wet Hardwood Flatwoods",17,0,4431,0.2,15.7894254
+"179","Wind or Weather or Stress","15070_44",0.0024518,"Ozark-Ouachita Shortleaf Pine-Bluestem Woodland",1,0.439215686,696173,25.5,1706.8769614
