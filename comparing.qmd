@@ -97,7 +97,7 @@ htmlwidgets::saveWidget(chord,
 - Some BpSs appear to be missing succession classes on the landscape today, such as the Colorado Plateau Pinyon-Juniper Woodland (missing succession class B).  
 
 
-```{r scls chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
+```{r scls chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=6}
 
 BPS_SCLS2 <- read.csv("data/bpsScls2.csv")
 
@@ -105,7 +105,7 @@ bps_scls_3 <- BPS_SCLS2 %>%
   group_by(Var1) %>%
   mutate(total.count = sum(Freq)) %>%
   ungroup() %>%
-  dplyr::filter(dense_rank(desc(total.count)) < 7) %>%
+  dplyr::filter(dense_rank(desc(total.count)) < 4) %>%
   dplyr::select(c("BpS_Name", "refLabel",  "currentPercent", "refPercent")) %>%
   pivot_longer(
     cols = c(`refPercent`, `currentPercent`), 
@@ -136,7 +136,7 @@ sclasplot <-
   scale_x_discrete(limits = (levels(bps_scls_3$refLabel))) +
   labs(
     title = "Succession Classes past and present",
-    subtitle = "6 BpSs selected for illustration. Not all succession classes present in all BpSs",
+    subtitle = "3 BpSs selected for illustration. Not all succession classes present in all BpSs",
     caption = "Data from landfire.gov; Chart © Randy Swaty",
     x = "",
     y = "Percent")+

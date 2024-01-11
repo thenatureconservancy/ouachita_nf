@@ -1,0 +1,24 @@
+---
+title: "To Dos"
+---
+
+## with succession class chart
+
+* issue-labels not useful
+* idea is to have 3 charts not 6 then Melanie will type up interp bullets.  
+
+## Web report text
+* Melanie to document grouping and other methods
+* Melanie to type up summaries (make sure to remove all previous text)
+
+## Historical fire regimes
+ * Randy inspect and fix MFRI data
+ * Randy makes maps and charts
+ * Randy filters historical disturbance chart to top BpSs (interactive chart)
+ 
+ ## Bar charts
+ 
+ * if time change colors of bars to match colors in map for BpS and EVT
+ 
+ *Randy and Melanie discuss process if time allows*
+ 
