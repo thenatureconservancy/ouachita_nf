@@ -7,9 +7,9 @@ author: "Randy Swaty and Melanie Rudolf, The Nature Conservancy"
 
 We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
 
-1. Characterize and map past and present ecosystem conditions
-2. Explore historical disturbance patterns
-3. Summarize patterns of change and management opportunities
+1. Characterize and map past and present ecosystem conditions.
+2. Explore historical disturbance patterns.
+3. Summarize patterns of change and management opportunities.
 
 
 The following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.
@@ -17,8 +17,8 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 This demonstration will:
 
 * Provide context for the past and present ecosystem conditions the Ouachita National Forest.
-* Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products
-* Facilitate an understanding of historical and current conditions on a regional scale
+* Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
+* Facilitate an understanding of historical and current conditions on a regional scale.
 
 ## Location
 
@@ -67,9 +67,9 @@ quickmap
 ## How to use this web report
 
 * All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"} and [Melanie Rudolf](mailto:melanie.rudolf@tnc.org), Nature Conservancy Ecologists.
-* Review is ongoing
-* To share this web app, simply share the hyperlink
-* Toggle between dark and light display of this site in the upper right corner of the page
+* Review is ongoing.
+* To share this web app, simply share the hyperlink.
+* Toggle between dark and light display of this site in the upper right corner of the page.
 
 
 
