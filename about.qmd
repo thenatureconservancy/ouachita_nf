@@ -2,7 +2,7 @@
 title: "About this Project"
 ---
 
-This project is the result of a meaningful collaboration across The Nature Conservancy, and serves as an demonstration of data products using LANDFIRE data. These charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"} and [Melanie Rudolf](mailto:melanie.rudolf@tnc.org), Nature Conservancy Ecologists.
+This project is the result of a meaningful collaboration across The Nature Conservancy, and serves as an demonstration of data products that may be created using LANDFIRE data. These charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"} and [Melanie Rudolf](mailto:melanie.rudolf@tnc.org), Nature Conservancy Ecologists.
 
 ## The Nature Conservancy & LANDFIRE
 

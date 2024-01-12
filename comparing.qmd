@@ -12,7 +12,7 @@ library(tidyverse)
 
 ```
 
-### Comparing Past vs. Present Conditions
+## Comparing Past vs. Present Conditions
 
 Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns.
 
@@ -22,12 +22,19 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 
 ## Comparing Broad Vegetation Trends
 
-## Summary
+### Summary
 
-There has not been broad whole conversion of ecosystems from one to another (explore circular chord diagram below). However, some patterns are worth noting: \* Interestingly, there has been a broad-scale change from 'hardwood' type to more 'conifer' types. Likely due primarily to conversion of hardwood to pine for timber production.\
-\* There has been some conversion from past conifer, past hardwood, past hardwood-conifer, and past grassland to developed and agricultural types, though overall, the forest remains heavily tree dominated. \* Acres of grassland have been dramatically reduced. Almost all of the past 30,000 acres of grassland have been converted to agriculture, exotic, and forested types. \* Exotic types now represent roughly 55,000 acres of the forest.
+There has not been broad conversion of ecosystems from one type to another (see circular chord diagram below). However, some patterns are worth noting:
 
--   Note: number presented when hovering equals acres.
+-   Interestingly, there has been a broad-scale change from 'hardwood' type to more 'conifer' types. Likely due primarily to conversion of hardwood to pine for timber production.
+
+-   There has been some conversion from past conifer, past hardwood, past hardwood-conifer, and past grassland to developed and agricultural types, though overall, the forest remains heavily forested.
+
+-   Acres of grassland have been dramatically reduced. Almost all of the past 30,000 acres of grassland have been converted to agriculture, exotic, and forested types. 
+
+-   Exotic types now represent roughly 55,000 acres of the forest.
+
+*Note: number presented when hovering equals acres.*
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # read in data
@@ -95,15 +102,16 @@ htmlwidgets::saveWidget(chord,
 
 ## Succession classes for three most dominant BpSs
 
-## Summary
+Some shifts in succession classes were quite interesting in these three communities.
 
-We have presented information for the three most dominant Biophysical Settings to illustrate some shifts in community structure and disturbance.
+-   There was a increase in succession class E, in all three ecosystems. Succession class E is characterized as closed canopy (\>71% canopy cover) wiht a sparse herbaceous understory. As fire has been identified as the most prevalent disturbance on this landscape, this shift is presumably due to lack of fire on the landscape.
 
--   There has been a increase in succession class E, in all three ecosystems. Succession class E is characterized by a closed canopy (\>71% canopy cover) and sparse herbaceous understory. As fire has been identified as the most prevalent distrubance on this landscape, this shift is presumably due to lack of fire on the landscape.
+-   The 'Ozark-Ouachita Shortleaf Pine-Bluestem Woodland' community has the most dramatic shift in succession class, with much of the past Succession Class D and C, described as mid to late-seral woodland savannah with pine oak overstory and bluestem grass understory representative of this community, shifting to closed canopy (Succession Class E).
 
--   The Ozark-Ouachita Shortleaf Pine-Bluestem community has the most dramatic shift in succession class, with much of the past succession class D and C, described as mid to late-seral woodland savannah with pine oak overstory and bluestem grass understory representative of this community has shifted to closed canopy (succession class E).
+-   All three ecosystems had dramatic reductions in Succession Classes A, B, and C. These succession classes are early and mid development classes, with seedling and sapling trees (Class A) to midstory trees (\< 10m tree height) (Class B and C). Overall, this trend suggests that in the past, higher intensity or frequency of disturbance (primarily fire) shifted ecosystems into, and maintained, these earlier development succession classes.
 
--   All three ecosystems have lost almost all of succession classes A, B, and C. These succession classes are early and mid development classes, with sapling to midstory trees (\< 10m tree height for Classes A-C). Overall, this trend suggests that in the past, higher intensity or frequency disturbance (mostly fire) shifted ecosystems in these earlier development succession classes.
+
+
 
 
 ```{r scls chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=6}
