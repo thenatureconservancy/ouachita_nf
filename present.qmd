@@ -7,25 +7,33 @@ library(tidyverse)
 
 ```
 
+LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets describe vegetation conditions.
 
-LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets describe vegetation conditions. 
-
-* Existing Vegetation Type (EVT) - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016
-* Existing Vegetation Cover (EVC) - represents the vertically projected percent cover of the live canopy layer for a 30-m cell
-* Existing Vegetation Height (EVH) - represents the average height of the dominant vegetation for a 30-m cell
+-   Existing Vegetation Type (EVT) - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016.
+-   Existing Vegetation Cover (EVC) - represents the vertically projected percent cover of the live canopy layer for a 30-m cell.
+-   Existing Vegetation Height (EVH) - represents the average height of the dominant vegetation for a 30-m cell.
 
 [Read more about LANDFIRE Vegetation Products](https://landfire.gov/vegetation.php){target="blank"}
 
-
 ## Summary
 
+In general the Ouachita National Forest, as of 2022, has experienced some interesting changes in natural ecosystems. However, care should be taken when directly comparing past and present maps, as classification systems for present Biophysical Settings have been updated to align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:
 
+-   Shortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though much of the vegetation types have shifted from "woodland" descriptions to more "forest" descriptions, indicating an increase in canopy cover.
+
+-   The most prevalent **past** Biophysical Setting, 'Ozark-Ouachita Shortleaf-Pine Bluestem Woodland' is no longer the most prevalent vegetation type. Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation, likely due to the low gradient associated with this community.
+
+-   Some additional areas that were previously 'Ozark-Ouachita Dry-Mesic Oak Forest', 'Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland' and 'Ozark-Ouachita Dry-Mesic Oak Forest' have been converted to plantation.
+
+-   The southwestern portion of the forest represents the most development, with the majority of the area now converted from 'West Gulf Coastal Plain Pine-Hardwood Forest' and 'Gulf and Atlantic Coastal Plain Floodplain Systems' to pasture and plantation.
+
+- The Ouachita National Forest remains heavily forested, as indicated by the Existing Vegetation Cover and Existing Vegetation Height.
 
 ## Most Prevalent Existing Vegetation Types
 
 <br>
 
-![](images/evt.jpg){width=100%}
+![](images/evt.jpg){width="100%"}
 
 <br>
 
@@ -60,15 +68,11 @@ evtChart
 
 <br>
 
-
 ## Existing Vegetation Cover
-The Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative dominance across the subregion
 
+The Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest.
 
-
-![](images/evc.jpg){width=100%}
-<br>
-<br>
+![](images/evc.jpg){width="100%"} <br> <br>
 
 ```{r evc chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 evcname <- read.csv("data/evc_aoi_attributes.csv")
@@ -166,12 +170,10 @@ evcChart
 <br>
 
 ## Existing Vegetation Height
-The Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height.
 
+The Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height.
 
-
-![](images/evh.jpg){width=100%}
-<br>
+![](images/evh.jpg){width="100%"} <br>
 
 ```{r evh chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 

@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About this Project",
     "section": "",
-    "text": "The data compiled for this Southern Rockies Fire Science Network “Subregion” is the result of a volunteer project that supports information dissemination and natural resource management decisions within the 5 subregions of the SRFSN. Why subregions? Learn more here."
+    "text": "This project is the result of a meaningful collaboration across The Nature Conservancy, and serves as an demonstration of data products that may be created using LANDFIRE data. These charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty and Melanie Rudolf, Nature Conservancy Ecologists."
   },
   {
     "objectID": "about.html#the-nature-conservancy-landfire",
@@ -39,14 +39,14 @@
     "href": "comparing.html",
     "title": "Comparisons",
     "section": "",
-    "text": "Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns.\n\nFirst we present changes in broad ecosystem types using an interactive comparison diagram.\nSecond we compare amounts of succession classes (past and present) for the most prevalent ecosystems."
+    "text": "Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns.\n\nFirst we present changes in broad ecosystem types using an interactive comparison diagram. To present these broad ecosystem trends more effectively, we combined classifications of Existing Vegetation Types (EVT) into broader categories.Developed EVTs of high, medium, and low intensity, and Quarries-Strip Mines-Gravel Pits EVTs were combined into one “Developed” EVT. Exotic Herbaceous and Exotic Tree-shrub EVTs were combined into one “Exotics” EVT.\nSecond we compare amounts of succession classes (past and present) for the most prevalent ecosystems."
   },
   {
     "objectID": "comparing.html#comparing-broad-vegetation-trends",
     "href": "comparing.html#comparing-broad-vegetation-trends",
     "title": "Comparisons",
     "section": "Comparing Broad Vegetation Trends",
-    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nNote: number presented when hovering equals acres."
+    "text": "Comparing Broad Vegetation Trends\n\nSummary\nThere has not been broad conversion of ecosystems from one to another (see circular chord diagram below). However, some patterns are worth noting:\n\nInterestingly, there has been a broad-scale change from ‘hardwood’ type to more ‘conifer’ types. Likely due primarily to conversion of hardwood to pine for timber production.\nThere has been some conversion from past conifer, past hardwood, past hardwood-conifer, and past grassland to developed and agricultural types, though overall, the forest remains heavily tree dominated.\nAcres of grassland have been dramatically reduced. Almost all of the past 30,000 acres of grassland have been converted to agriculture, exotic, and forested types. * Exotic types now represent roughly 55,000 acres of the forest.\n\nNote: number presented when hovering equals acres."
   },
   {
     "objectID": "comparing.html#succession-classes-for-most-dominant-bpss",
@@ -60,14 +60,14 @@
     "href": "index.html",
     "title": "Ouachita National Forest Landscape Assessment",
     "section": "",
-    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions\nExplore historical disturbance patterns\nSummarize patterns of change and management opportunities\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions the Ouachita National Forest.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products\nFacilitate an understanding of historical and current conditions on a regional scale"
+    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions the Ouachita National Forest.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
   },
   {
     "objectID": "index.html#goals-of-this-demonstration",
     "href": "index.html#goals-of-this-demonstration",
     "title": "Ouachita National Forest Landscape Assessment",
     "section": "",
-    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions\nExplore historical disturbance patterns\nSummarize patterns of change and management opportunities\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions the Ouachita National Forest.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products\nFacilitate an understanding of historical and current conditions on a regional scale"
+    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions the Ouachita National Forest.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
   },
   {
     "objectID": "index.html#location",
@@ -81,21 +81,21 @@
     "href": "index.html#how-to-use-this-web-report",
     "title": "Ouachita National Forest Landscape Assessment",
     "section": "How to use this web report",
-    "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty and Melanie Rudolf, Nature Conservancy Ecologists.\nReview is ongoing\nTo share this web app, simply share the hyperlink\nToggle between dark and light display of this site in the upper right corner of the page"
+    "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty and Melanie Rudolf, Nature Conservancy Ecologists.\nReview is ongoing.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page."
   },
   {
     "objectID": "past.html",
     "href": "past.html",
     "title": "Past: Historical Ecosystems",
     "section": "",
-    "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs in the SRFSN Colorado Plateau Subregion. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
+    "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs on the Ouachita National Forest. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
   },
   {
     "objectID": "past.html#summary",
     "href": "past.html#summary",
     "title": "Past: Historical Ecosystems",
     "section": "Summary",
-    "text": "Summary"
+    "text": "Summary\nHistorically, more than 80% of the Ouachita National Forest was covered by shortleaf pine and oak dominated woodland and forest, represented by the ‘Ozark-Ouachita Shortleaf-Pine Bluestem Woodland’, ‘Ozark-Ouachita Dry-Mesic Oak Forest’, ‘Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland’, and ‘Ozark-Ouachita Dry Oak Woodland’. Much of the composition of the woodlands and forests was due to changes in slope and aspect, with more open, pine and dry oak communities concentrated on dry, south facing slopes, and denser more mesic oak communities concentrated on wetter north facing slopes.\nThe ‘Ozark-Ouachita Shortleaf-Pine Bluestem Woodland’ covered more than 25% of the area, a biophysical setting characterized by a shortleaf pine dominated canopy (Pinus echinata) and open understory dominated by big bluestem (Andropogon gerardii), little bluestem (Schizachium scoparium), and other sun loving plants species more often seen in prairie communities. Much of this setting occurred on the large, more gently sloping east/west ridges of the Ouachitas Mountains, on primarily sandstone and shale substrates.\nMore than 95% of the Ouachita National Forest had ecosystems with a Mean Fire Return Interval (MFRI) of ~25 years or less. Floodplain systems represented the remaining ecosystems and had MFRIs greater than 25 years. Surface fire was by far, the most prevalent historic disturbance. In the past, roughly 300,000 acres of surface fire burned through the ‘Ozark-Ouachita Shortleaf Pine-Bluestem Woodland’ ecosystem per year. Overall, more than 600,000 acres of surface fire burned throughout the Ouachita National Forest per year. Native grazing was the second-most common disturbance, but was low in comparison, affecting roughly 30,000 acres per year."
   },
   {
     "objectID": "past.html#most-prevalent-biophysical-settings",
@@ -144,7 +144,7 @@
     "href": "present.html#summary",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Summary",
-    "text": "Summary"
+    "text": "Summary\nIn general the Ouachita National Forest, as of 2022, has experienced some interesting changes in natural ecosystems. However, care should be taken when directly comparing past and present maps, as classification systems for present Biophysical Settings have been updated to align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:\n\nShortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though much of the vegetation types have shifted from “woodland” descriptions to more “forest” descriptions, likely indicating an increase in canopy cover and tree density.\nThe most prevalent past Biophysical Setting, ‘Ozark-Ouachita Shortleaf-Pine Bluestem Woodland’ is no longer the most prevalent vegetation type. Large areas in the central and southeastern portion of the forest appear to have been converted to pasture and plantation, likely due to the low gradient associated with this community.\nSome additional areas that were previously ‘Ozark-Ouachita Dry-Mesic Oak Forest’, ‘Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland’ and ‘Ozark-Ouachita Dry-Mesic Oak Forest’ have been converted to plantation.\nThe southwestern portion of the forest represents the most development, with the majority of the area now converted from ‘West Gulf Coastal Plain Pine-Hardwood Forest’ and ‘Gulf and Atlantic Coastal Plain Floodplain Systems’ to pasture and plantation."
   },
   {
     "objectID": "present.html#most-prevalent-existing-vegetation-types",
@@ -165,14 +165,14 @@
     "href": "present.html#existing-vegetation-cover",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Existing Vegetation Cover",
-    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative dominance across the subregion"
+    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest."
   },
   {
     "objectID": "present.html#existing-vegetation-height",
     "href": "present.html#existing-vegetation-height",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Existing Vegetation Height",
-    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height."
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height."
   },
   {
     "objectID": "to_dos.html",
@@ -201,5 +201,33 @@
     "title": "To Dos",
     "section": "Historical fire regimes",
     "text": "Historical fire regimes\n\nRandy inspect and fix MFRI data\nRandy makes maps and charts\nRandy filters historical disturbance chart to top BpSs (interactive chart)\n\n## Bar charts\n\nif time change colors of bars to match colors in map for BpS and EVT\n\nRandy and Melanie discuss process if time allows"
+  },
+  {
+    "objectID": "comparing.html#summary",
+    "href": "comparing.html#summary",
+    "title": "Comparisons",
+    "section": "Summary",
+    "text": "Summary\nThere has not been broad conversion of ecosystems from one to another (see circular chord diagram below). However, some patterns are worth noting:\n\nInterestingly, there has been a broad-scale change from ‘hardwood’ type to more ‘conifer’ types. Likely due primarily to conversion of hardwood to pine for timber production.\nThere has been some conversion from past conifer, past hardwood, past hardwood-conifer, and past grassland to developed and agricultural types, though overall, the forest remains heavily tree dominated.\nAcres of grassland have been dramatically reduced. Almost all of the past 30,000 acres of grassland have been converted to agriculture, exotic, and forested types. * Exotic types now represent roughly 55,000 acres of the forest.\n\nNote: number presented when hovering equals acres."
+  },
+  {
+    "objectID": "comparing.html#succession-classes-for-three-most-dominant-bpss",
+    "href": "comparing.html#succession-classes-for-three-most-dominant-bpss",
+    "title": "Comparisons",
+    "section": "Succession classes for three most dominant BpSs",
+    "text": "Succession classes for three most dominant BpSs\nWe present successional classes for the three most dominant Biophysical Settings to illustrate some notable shifts in succession classes.\n\nThere has been a increase in succession class E, in all three ecosystems. Succession class E is characterized by a closed canopy (&gt;71% canopy cover) and sparse herbaceous understory. As fire has been identified as the most prevalent distrubance on this landscape, this shift is presumably due to lack of fire on the landscape.\nThe ‘Ozark-Ouachita Shortleaf Pine-Bluestem Woodland’ community has the most dramatic shift in succession class, with much of the past Succession Class D and C, described as mid to late-seral woodland savannah with pine oak overstory and bluestem grass understory representative of this community, shifting to closed canopy (Succession Class E).\nAll three ecosystems had dramatic reductions in Succession Classes A, B, and C. These succession classes are early and mid development classes, with seeling and sapling trees (Class A) to midstory trees (&lt; 10m tree height) (Class B and C). Overall, this trend suggests that in the past, higher intensity or frequency of disturbance (primarily fire) shifted ecosystems into, and maintained, these earlier development succession classes."
+  },
+  {
+    "objectID": "comparing.html#summary-1",
+    "href": "comparing.html#summary-1",
+    "title": "Comparisons",
+    "section": "Summary",
+    "text": "Summary\nWe have presented information for the three most dominant Biophysical Settings to illustrate some shifts in community structure and disturbance.\n\nThere has been a increase in succession class E, in all three ecosystems. Succession class E is characterized by a closed canopy (&gt;71% canopy cover) and sparse herbaceous understory. As fire has been identified as the most prevalent distrubance on this landscape, this shift is presumably due to lack of fire on the landscape.\nThe Ozark-Ouachita Shortleaf Pine-Bluestem community has the most dramatic shift in succession class, with much of the past succession class D and C, described as mid to late-seral woodland savannah with pine oak overstory and bluestem grass understory representative of this community has shifted to closed canopy (succession class E).\nAll three ecosystems have lost almost all of succession classes A, B, and C. These succession classes are early and mid development classes, with sapling to midstory trees (&lt; 10m tree height for Classes A-C). Overall, this trend suggests that in the past, higher intensity or frequency disturbance (mostly fire) shifted ecosystems in these earlier development succession classes."
+  },
+  {
+    "objectID": "comparing.html#comparing-past-vs.-present-conditions",
+    "href": "comparing.html#comparing-past-vs.-present-conditions",
+    "title": "Comparisons",
+    "section": "",
+    "text": "Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns.\n\nFirst we present changes in broad ecosystem types using an interactive comparison diagram. To present these broad ecosystem trends more effectively, we combined classifications of Existing Vegetation Types (EVT) into broader categories.Developed EVTs of high, medium, and low intensity, and Quarries-Strip Mines-Gravel Pits EVTs were combined into one “Developed” EVT. Exotic Herbaceous and Exotic Tree-shrub EVTs were combined into one “Exotics” EVT.\nSecond we compare amounts of succession classes (past and present) for the most prevalent ecosystems."
   }
 ]
