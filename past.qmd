@@ -60,13 +60,17 @@ bpsChart
 
 ```{r fire bar, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
 # read bps attribute table .csv and summarize
-annualFire <- bps_data %>%
+
+# quick filter bps data (to match top 10 of BpSs)
+bps_data10 <- bps_data %>%
+  top_n(n = 11, wt = REL_PERCENT)
+
+annualFire <- bps_data10 %>%
   mutate(annual_fire_acres = ((1/FRI_ALLFIR)*ACRES)) %>%
   filter(BPS_NAME != 'Open Water') %>%
   group_by(BPS_NAME) %>%
   summarize(acres = sum(annual_fire_acres)) %>%
-  arrange(desc(acres)) %>%
-  top_n(n = 10, wt = acres)
+  arrange(desc(acres)) 
 
 # plot
 fireChart <- 
@@ -167,7 +171,7 @@ bscols(widths = c(3, 10),
                      ~ BpS_Name,
                      multiple = FALSE),
        ggplotly(bpsChart,
-                tooltip = FALSE,
+                tooltip = TRUE,
                 width = 815)
 )
 ```
