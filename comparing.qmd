@@ -26,11 +26,11 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 
 There has not been broad large-scale conversion of ecosystems from one type to another (see circular chord diagram below). However, some patterns are worth noting:
 
--   There has been a broad-scale change from 'hardwood' type to more 'conifer' types. Likely due primarily to conversion of hardwood to pine for timber production.
+-   There has been a **broad-scale change from 'hardwood' type to more 'conifer' types.** Likely due primarily to conversion of hardwood to pine for timber production.
 
--   There has been some conversion from past conifer, past hardwood, past hardwood-conifer, and past grassland to developed and agricultural types, though overall, the forest remains heavily forested.
+-   There has been **some conversion from past conifer, past hardwood, past hardwood-conifer, and past grassland to developed and agricultural types**, though overall, the forest remains heavily forested.
 
--   Acres of grassland have been dramatically reduced. Almost all of the past 30,000 acres of grassland have been converted to agriculture, exotic, and forested types. 
+-   **Acres of grassland have been dramatically reduced.** Almost all of the past 30,000 acres of grassland have been converted to agriculture, exotic, and forested types. 
 
 -   Exotic types now represent roughly 55,000 acres of the forest.
 
@@ -38,11 +38,11 @@ There has not been broad large-scale conversion of ecosystems from one type to a
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # read in data
-chord_df<- read_csv("data/bps2evt_chord.csv")
+chord_df <- read_csv("data/bps2evt_chord.csv")
 #view(histFireGVchord)
 
 #convert to matrix
-matrix_df <-as.matrix(as_adjacency_matrix(as_tbl_graph(chord_df),attr = "ACRES"))
+matrix_df <- as.matrix(as_adjacency_matrix(as_tbl_graph(chord_df),attr = "ACRES"))
 
 #clean up matrix (could be cleaner!)
 matrix_df = subset(matrix_df, select = -c(1:5))
@@ -104,11 +104,11 @@ htmlwidgets::saveWidget(chord,
 
 These three communities had some interesting shifts in succession classes (See chart below).
 
--   There was a increase in succession class E, in all three ecosystems. Succession class E is characterized as closed canopy (\>71% canopy cover) with a sparse herbaceous understory. As fire has been identified as the most prevalent disturbance on this landscape, this shift is presumably due to lack of fire on the landscape.
+-   **There was a increase in succession class E, in all three ecosystems.** Succession class E is characterized as closed canopy (\>71% canopy cover) with a sparse herbaceous understory. As fire has been identified as the most prevalent disturbance on this landscape, this shift is presumably due to lack of fire on the landscape.
 
 -   The 'Ozark-Ouachita Shortleaf Pine-Bluestem Woodland' community had the most dramatic shift in succession class, with much of the past Succession Class D and C, described as mid to late-seral woodland savannah, with pine oak overstory and bluestem grass understory, shifting to closed canopy forest (Succession Class E).
 
--   All three ecosystems had dramatic reductions in Succession Classes A, B, and C. These succession classes are early and mid development classes, with seedling and sapling trees (Class A) to midstory trees (\< 10m tree height) (Class B and C). Overall, this trend suggests that in the past, higher intensity and frequency of disturbance (primarily fire) shifted ecosystems into, and maintained, these earlier succession classes.
+-   **All three ecosystems had dramatic reductions in Succession Classes A, B, and C.** These succession classes are early and mid development classes, with seedling and sapling trees (Class A) to midstory trees (\< 10m tree height) (Class B and C). Overall, this trend suggests that in the past, higher intensity and frequency of disturbance (primarily fire) shifted ecosystems into, and maintained, these earlier succession classes.
 
 
 

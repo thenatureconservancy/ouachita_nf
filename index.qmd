@@ -16,7 +16,7 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 
 This demonstration will:
 
-* Provide context for the past and present ecosystem conditions the Ouachita National Forest.
+* Provide context for the past and present ecosystem conditions the [Ouachita National Forest](https://www.fs.usda.gov/ouachita){target='blank'}.
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
 * Facilitate an understanding of historical and current conditions on a regional scale.
 
@@ -66,8 +66,7 @@ quickmap
 
 ## How to use this web report
 
-* All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"} and [Melanie Rudolf](mailto:melanie.rudolf@tnc.org), Nature Conservancy Ecologists.
-* Review is ongoing.
+* All maps, input datasets and further assistance can be obtained by contacting TNC Ecologists (and authors of this assessment), [Randy Swaty](mailto:rswaty@tnc.org){target="blank"} and [Melanie Rudolf](mailto:melanie.rudolf@tnc.org){target="blank"}. 
 * To share this web app, simply share the hyperlink.
 * Toggle between dark and light display of this site in the upper right corner of the page.
 

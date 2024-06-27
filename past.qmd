@@ -14,15 +14,17 @@ Use this page as a starting point to explore the most prevalent BpSs on the Ouac
 
 ## Summary
 
-- Historically, more than 80% of the Ouachita National Forest was covered by shortleaf pine and oak dominated woodland and forest. Much of the composition of the woodlands and forests was a function of changes in slope and aspect, with more open, pine and dry oak communities occurring on dry, south facing slopes, and denser, more mesic, oak communities concentrated on wetter north facing slopes.
 
-- The 'Ozark-Ouachita Shortleaf-Pine Bluestem Woodland' covered more than 25% of the area, a Biophysical Setting characterized by a shortleaf pine dominated canopy (*Pinus echinata*) and open understory dominated by big bluestem (*Andropogon gerardii*), little bluestem (*Schizachium scoparium*), and other sun loving plants species more often observed in prairie communities. Much of this setting occurred on the large, more gently sloping east/west ridges of the Ouachitas Mountains, on primarily sandstone and shale substrates.
+
+- Historically, **more than 80% of the Ouachita National Forest was covered by the [Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland](top_3_bpss_onf/shortleaf_pine_oak_forest_woodland.docx){target-'blank'}**. Much of the composition of the woodlands and forests was a function of changes in slope and aspect, with more open, pine and dry oak communities occurring on dry, south facing slopes, and denser, more mesic, oak communities concentrated on wetter north facing slopes.
+
+- The **[Ozark-Ouachita Shortleaf-Pine Bluestem Woodland](top_3_bpss_onf/shortleaf_pine_bluestem_woodland.docx){target-'blank'} covered more than 25% of the area**, a Biophysical Setting characterized by a shortleaf pine dominated canopy (*Pinus echinata*) and open understory dominated by big bluestem (*Andropogon gerardii*), little bluestem (*Schizachium scoparium*), and other sun loving plants species more often observed in prairie communities. Much of this setting occurred on the large, more gently sloping east/west ridges of the Ouachitas Mountains, on primarily sandstone and shale substrates.
 
 - More than 95% of the Ouachita National Forest had a Mean Fire Return Interval (MFRI) of 20 years or less, with roughly 40% having a MFRI of less than 5 years.
 
 - Surface fire was by far, the most prevalent historic disturbance.
 
-- Overall, more than 600,000 acres of surface fire burned throughout the Ouachita National Forest per year, with roughly 300,000 acres burning through the 'Ozark-Ouachita Shortleaf Pine-Bluestem Woodland' ecosystem. Native grazing was the second-most common disturbance, but was low in comparison to fire disturbance, affecting roughly 30,000 acres per year.
+- Overall, **more than 600,000 acres of surface fire burned throughout the Ouachita National Forest per year**, with roughly 300,000 acres burning through the 'Ozark-Ouachita Shortleaf Pine-Bluestem Woodland' ecosystem. Native grazing was the second-most common disturbance, but was low in comparison to fire disturbance, affecting roughly 30,000 acres per year.
 
 ## Most Prevalent Biophysical Settings
 

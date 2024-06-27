@@ -7,25 +7,24 @@ library(tidyverse)
 
 ```
 
-LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets describe vegetation conditions.
+The following LANDFIRE vegetation products are based on LF 2022 data release.
 
--   Existing Vegetation Type (EVT) - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016.
--   Existing Vegetation Cover (EVC) - represents the vertically projected percent cover of the live canopy layer for a 30-m cell.
--   Existing Vegetation Height (EVH) - represents the average height of the dominant vegetation for a 30-m cell.
+-   [Existing Vegetation Type (EVT)](https://landfire.gov/vegetation/evt){target='blank'} - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere.
+-   [Existing Vegetation Cover (EVC)](https://landfire.gov/vegetation/evt){target='blank'} - represents the vertically projected percent cover of the live canopy layer for a 30-m cell.
+-   [Existing Vegetation Height (EVH)](https://landfire.gov/vegetation/evt){target='blank'} - represents the average height of the dominant vegetation for a 30-m cell.
 
-[Read more about LANDFIRE Vegetation Products](https://landfire.gov/vegetation.php){target="blank"}
 
 ## Summary
 
-In general, the Ouachita National Forest, as of 2022, has experienced some interesting shifts. Care should be taken when directly comparing past and present maps, as classification systems for present Biophysical Settings have been updated to align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:
+In general, the Ouachita National Forest, as of 2022, has experienced some interesting shifts. Care should be taken when directly comparing past and present maps, as classification systems for Biophysical Settings do not always align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:
 
--   Shortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though much of the vegetation types have shifted from "woodland" descriptions to more "forest" descriptions, indicating an increase in canopy cover.
+-   Shortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though **much of the vegetation types have shifted from "woodland" descriptions to more "forest" descriptions**, indicating an increase in canopy cover.
 
--   The most prevalent **past** Biophysical Setting, 'Ozark-Ouachita Shortleaf-Pine Bluestem Woodland' is no longer the most prevalent vegetation type. Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation, presumably due to the low gradient associated with this community.
+-   The most prevalent **past** Biophysical Setting, [Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland](top_3_bpss_onf/shortleaf_pine_oak_forest_woodland.docx){target-'blank'} is no longer the most prevalent vegetation type. **Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation**, presumably due to the low gradient associated with this community.
 
--   The southwestern portion of the forest represents the most development, with the majority of the area now converted from 'West Gulf Coastal Plain Pine-Hardwood Forest' and 'Gulf and Atlantic Coastal Plain Floodplain Systems' to pasture and plantation.
+-   The southwestern portion of the forest represents the most development, with the majority of the area now converted from [West Gulf Coastal Plain Pine-Hardwood Forest](top_3_bpss_onf/west_gulf_coast_pine_hardwood.docx){target='blank'} and [Gulf and Atlantic Coastal Plain Floodplain Systems](top_3_bpss_onf/coastal_plain_floodplain_forest.docx) to pasture and plantation.
 
-- The Ouachita National Forest remains heavily forested, as indicated by the Existing Vegetation Cover and Existing Vegetation Height.
+- **The Ouachita National Forest remains heavily forested**, as indicated by the EVC and EVH.
 
 ## Most Prevalent Existing Vegetation Types
 
