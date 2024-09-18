@@ -20,7 +20,7 @@ In general, the Ouachita National Forest, as of 2022, has experienced some inter
 
 -   Shortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though **much of the vegetation types have shifted from "woodland" descriptions to more "forest" descriptions**, indicating an increase in canopy cover.
 
--   The most prevalent **past** Biophysical Setting, [Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland](top_3_bpss_onf/shortleaf_pine_oak_forest_woodland.docx){target-'blank'} is no longer the most prevalent vegetation type. **Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation**, presumably due to the low gradient associated with this community.
+-   The most prevalent **past** Biophysical Setting, [Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland](top_3_bpss_onf/shortleaf_pine_oak_forest_woodland.docx){target='blank'} is no longer the most prevalent vegetation type. **Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation**, presumably due to the low gradient associated with this community.
 
 -   The southwestern portion of the forest represents the most development, with the majority of the area now converted from [West Gulf Coastal Plain Pine-Hardwood Forest](top_3_bpss_onf/west_gulf_coast_pine_hardwood.docx){target='blank'} and [Gulf and Atlantic Coastal Plain Floodplain Systems](top_3_bpss_onf/coastal_plain_floodplain_forest.docx) to pasture and plantation.
 
