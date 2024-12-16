@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>LANDFIRE-Powered Landscape Assessment - Present: Current Ecosystem Conditions</title>
+<title>Present: Current Ecosystem Conditions – LANDFIRE-Powered Landscape Assessment</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -111,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -167,9 +167,10 @@ ul.task-list li input[type="checkbox"] {
 <p>In general, the Ouachita National Forest, as of 2022, has experienced some interesting shifts. Care should be taken when directly comparing past and present maps, as classification systems for Biophysical Settings do not always align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:</p>
 <ul>
 <li><p>Shortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though <strong>much of the vegetation types have shifted from “woodland” descriptions to more “forest” descriptions</strong>, indicating an increase in canopy cover.</p></li>
-<li><p>The most prevalent <strong>past</strong> Biophysical Setting, <a href="top_3_bpss_onf/shortleaf_pine_oak_forest_woodland.docx" target="blank">Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland</a> is no longer the most prevalent vegetation type. <strong>Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation</strong>, presumably due to the low gradient associated with this community.</p></li>
-<li><p>The southwestern portion of the forest represents the most development, with the majority of the area now converted from <a href="top_3_bpss_onf/west_gulf_coast_pine_hardwood.docx" target="blank">West Gulf Coastal Plain Pine-Hardwood Forest</a> and <a href="top_3_bpss_onf/coastal_plain_floodplain_forest.docx">Gulf and Atlantic Coastal Plain Floodplain Systems</a> to pasture and plantation.</p></li>
+<li><p>The most prevalent <strong>past</strong> Biophysical Setting, <a href="top_3_bpss_onf/shortleaf_pine_oak_forest_woodland.docx" target="blank">Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland*</a> is no longer the most prevalent vegetation type. <strong>Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation</strong>, presumably due to the low gradient associated with this community.</p></li>
+<li><p>The southwestern portion of the forest represents the most development, with the majority of the area now converted from <a href="top_3_bpss_onf/west_gulf_coast_pine_hardwood.docx" target="blank">West Gulf Coastal Plain Pine-Hardwood Forest*</a> and <a href="top_3_bpss_onf/coastal_plain_floodplain_forest.docx">Gulf and Atlantic Coastal Plain Floodplain Systems*</a> to pasture and plantation.</p></li>
 <li><p><strong>The Ouachita National Forest remains heavily forested</strong>, as indicated by the EVC and EVH.</p></li>
+<li><p>Click downloads a Word document. If link does not work, your browser may be blocking the pop up)</p></li>
 </ul>
 </section>
 <section id="most-prevalent-existing-vegetation-types" class="level2">
@@ -403,18 +404,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -446,7 +436,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -454,7 +466,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

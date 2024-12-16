@@ -39,7 +39,7 @@
     "href": "past.html#summary",
     "title": "Past: Historical Ecosystems",
     "section": "Summary",
-    "text": "Summary\n\nHistorically, more than 80% of the Ouachita National Forest was covered by the Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland. Much of the composition of the woodlands and forests was a function of changes in slope and aspect, with more open, pine and dry oak communities occurring on dry, south facing slopes, and denser, more mesic, oak communities concentrated on wetter north facing slopes.\nThe Ozark-Ouachita Shortleaf-Pine Bluestem Woodland covered more than 25% of the area, a Biophysical Setting characterized by a shortleaf pine dominated canopy (Pinus echinata) and open understory dominated by big bluestem (Andropogon gerardii), little bluestem (Schizachium scoparium), and other sun loving plants species more often observed in prairie communities. Much of this setting occurred on the large, more gently sloping east/west ridges of the Ouachitas Mountains, on primarily sandstone and shale substrates.\nMore than 95% of the Ouachita National Forest had a Mean Fire Return Interval (MFRI) of 20 years or less, with roughly 40% having a MFRI of less than 5 years.\nSurface fire was by far, the most prevalent historic disturbance.\nOverall, more than 600,000 acres of surface fire burned throughout the Ouachita National Forest per year, with roughly 300,000 acres burning through the ‘Ozark-Ouachita Shortleaf Pine-Bluestem Woodland’ ecosystem. Native grazing was the second-most common disturbance, but was low in comparison to fire disturbance, affecting roughly 30,000 acres per year."
+    "text": "Summary\n\nHistorically, more than 80% of the Ouachita National Forest was covered by the Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland*. Much of the composition of the woodlands and forests was a function of changes in slope and aspect, with more open, pine and dry oak communities occurring on dry, south facing slopes, and denser, more mesic, oak communities concentrated on wetter north facing slopes.\nThe Ozark-Ouachita Shortleaf-Pine Bluestem Woodland* covered more than 25% of the area, a Biophysical Setting characterized by a shortleaf pine dominated canopy (Pinus echinata) and open understory dominated by big bluestem (Andropogon gerardii), little bluestem (Schizachium scoparium), and other sun loving plants species more often observed in prairie communities. Much of this setting occurred on the large, more gently sloping east/west ridges of the Ouachitas Mountains, on primarily sandstone and shale substrates.\nMore than 95% of the Ouachita National Forest had a Mean Fire Return Interval (MFRI) of 20 years or less, with roughly 40% having a MFRI of less than 5 years.\nSurface fire was by far, the most prevalent historic disturbance.\nOverall, more than 600,000 acres of surface fire burned throughout the Ouachita National Forest per year, with roughly 300,000 acres burning through the ‘Ozark-Ouachita Shortleaf Pine-Bluestem Woodland’ ecosystem. Native grazing was the second-most common disturbance, but was low in comparison to fire disturbance, affecting roughly 30,000 acres per year.\nClick downloads a Word document. If link does not work, your browser may be blocking the pop up)"
   },
   {
     "objectID": "past.html#most-prevalent-biophysical-settings",
@@ -112,53 +112,46 @@
     "text": "This project is the result of a meaningful collaboration across The Nature Conservancy, serving as a demonstration of data products that may be created using LANDFIRE data. These charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting TNC Ecologists (and authors of this assessment), Randy Swaty and Melanie Rudolf."
   },
   {
-    "objectID": "about.html#what-is-landfire",
-    "href": "about.html#what-is-landfire",
+    "objectID": "about.html#landfire-the-nature-conservancy",
+    "href": "about.html#landfire-the-nature-conservancy",
     "title": "About this Project",
-    "section": "What is LANDFIRE?",
-    "text": "What is LANDFIRE?\nLANDFIRE, Landscape Fire and Resource Management Planning Tools , is a shared program between the wildland fire management programs of the U.S. Department of Agriculture Forest Service Fire and Aviation branch, and the U.S. Department of the Interior, that provides more than twenty landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations."
-  },
-  {
-    "objectID": "about.html#what-is-the-nature-conservancys-connection",
-    "href": "about.html#what-is-the-nature-conservancys-connection",
-    "title": "About this Project",
-    "section": "What is The Nature Conservancy’s connection?",
-    "text": "What is The Nature Conservancy’s connection?\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide user support through:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios"
-  },
-  {
-    "objectID": "about.html#landfires-mission",
-    "href": "about.html#landfires-mission",
-    "title": "About this Project",
-    "section": "LANDFIRE’s Mission",
-    "text": "LANDFIRE’s Mission\nLANDFIRE’s mission is to provide agency leaders and managers with a common “all-lands” data set of vegetation and wildland fire/fuels information for strategic fire and resource management planning and analysis."
+    "section": "LANDFIRE & The Nature Conservancy",
+    "text": "LANDFIRE & The Nature Conservancy\nLANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nSubstantial code contributions for GIS data processing by Myles Walimaa."
   },
   {
     "objectID": "about.html#biophysical-settings-products",
     "href": "about.html#biophysical-settings-products",
     "title": "About this Project",
     "section": "Biophysical Settings Products",
-    "text": "Biophysical Settings Products\n\nQuick intro\nA Biophysical Setting (BpS) is a concept that represents the vegetation that may have been dominant on the landscape prior to European colonization of North America and is based on both the current biophysical environment and an approximation of the historical disturbance regime.\nLANDFIRE collaborated with experts around the country to create a description and model for every BpS it mapped across the US.\nCheck out the vegetation modeling website to learn how to integrate BpS into your work.\n\n\nResources\n\nVegetation dynamics models: a comprehensive set for natural resource assessment and planning in the United States. Kori Blankenship, Randy Swaty, Kimberly R. Hall, Sarah Hagen, Kelly Pohl, Ayn Shlisky Hunt, Jeannie Patton, Leonardo Frid, Jim Smith\nBpS Descriptions and Models information\nInformation about the BpS Spatial Data\nLearn to work with the BpS models at our Vegetation Modeling Website"
+    "text": "Biophysical Settings Products\nA Biophysical Setting (BpS) is a concept that represents the vegetation that may have been dominant on the landscape prior to European colonization of North America and is based on both the current biophysical environment and an approximation of the historical disturbance regime.\n\nLANDFIRE collaborated with experts around the country to create a description and model for every BpS in the US. Find BpS descriptions for your area here.\nCheck out the vegetation modeling website to learn how to integrate BpS into your work.\nRead Blankenship et al. (2021) to learn how the models and descriptions were developed."
   },
   {
     "objectID": "about.html#vegetation-products",
     "href": "about.html#vegetation-products",
     "title": "About this Project",
     "section": "Vegetation Products",
-    "text": "Vegetation Products\n\nQuick Intro\nLANDFIRE existing vegetation layers describe the following elements: Existing Vegetation Type, Existing Vegetation Canopy Cover, and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees.’ (from https://landfire.gov/vegetation.php)\n\n\nResources\n\nExisting Vegetation Cover\nExisting Vegetation Height\nExisting Vegetation Type"
+    "text": "Vegetation Products\nLANDFIRE (LF) existing vegetation layers describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees.\n\nResources\n\nExisting Vegetation Cover\nExisting Vegetation Height\nExisting Vegetation Type"
+  },
+  {
+    "objectID": "about.html#still-have-questions-landfire-is-here-to-help.",
+    "href": "about.html#still-have-questions-landfire-is-here-to-help.",
+    "title": "About this Project",
+    "section": "Still have questions? LANDFIRE is here to help.",
+    "text": "Still have questions? LANDFIRE is here to help.\nAsk the LANDFIRE Helpdesk\nSearch the LANDFIRE Helpdesk Dashboard (see what others are asking and find solutions to common problems)\nSearch (& subscribe to) the LANDFIRE YouTube Channel (see tutorials, Office Hours, quick demonstrations)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ouachita National Forest Landscape Assessment",
     "section": "",
-    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions the Ouachita National Forest.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
+    "text": "These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options."
   },
   {
     "objectID": "index.html#goals-of-this-demonstration",
     "href": "index.html#goals-of-this-demonstration",
     "title": "Ouachita National Forest Landscape Assessment",
-    "section": "",
-    "text": "We will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions the Ouachita National Forest.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
+    "section": "Goals of this demonstration",
+    "text": "Goals of this demonstration\nWe will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions the Ouachita National Forest.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
   },
   {
     "objectID": "index.html#location",
@@ -172,7 +165,7 @@
     "href": "index.html#how-to-use-this-web-report",
     "title": "Ouachita National Forest Landscape Assessment",
     "section": "How to use this web report",
-    "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting TNC Ecologists (and authors of this assessment), Randy Swaty and Melanie Rudolf.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page."
+    "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting TNC Ecologists (and authors of this assessment), Randy Swaty and Melanie Rudolf.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page.\nLearn more about LANDFIRE and The Nature Conservancy here."
   },
   {
     "objectID": "present.html",
@@ -186,7 +179,7 @@
     "href": "present.html#summary",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Summary",
-    "text": "Summary\nIn general, the Ouachita National Forest, as of 2022, has experienced some interesting shifts. Care should be taken when directly comparing past and present maps, as classification systems for Biophysical Settings do not always align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:\n\nShortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though much of the vegetation types have shifted from “woodland” descriptions to more “forest” descriptions, indicating an increase in canopy cover.\nThe most prevalent past Biophysical Setting, Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland is no longer the most prevalent vegetation type. Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation, presumably due to the low gradient associated with this community.\nThe southwestern portion of the forest represents the most development, with the majority of the area now converted from West Gulf Coastal Plain Pine-Hardwood Forest and Gulf and Atlantic Coastal Plain Floodplain Systems to pasture and plantation.\nThe Ouachita National Forest remains heavily forested, as indicated by the EVC and EVH."
+    "text": "Summary\nIn general, the Ouachita National Forest, as of 2022, has experienced some interesting shifts. Care should be taken when directly comparing past and present maps, as classification systems for Biophysical Settings do not always align with the most current NatureServe (2016) ecosystem descriptions. With this caveat in mind, some patterns are worth noting:\n\nShortleaf pine and oak dominated systems are still the most prevalent vegetation types on the forest, though much of the vegetation types have shifted from “woodland” descriptions to more “forest” descriptions, indicating an increase in canopy cover.\nThe most prevalent past Biophysical Setting, Ozark-Ouachita Shortleaf Pine-Oak Forest and Woodland* is no longer the most prevalent vegetation type. Large areas of in the central and southeastern portion of the forest appear to have been converted to pasture and plantation, presumably due to the low gradient associated with this community.\nThe southwestern portion of the forest represents the most development, with the majority of the area now converted from West Gulf Coastal Plain Pine-Hardwood Forest* and Gulf and Atlantic Coastal Plain Floodplain Systems* to pasture and plantation.\nThe Ouachita National Forest remains heavily forested, as indicated by the EVC and EVH.\nClick downloads a Word document. If link does not work, your browser may be blocking the pop up)"
   },
   {
     "objectID": "present.html#most-prevalent-existing-vegetation-types",
